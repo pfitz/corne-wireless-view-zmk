@@ -96,7 +96,7 @@
 
             display-name = "Raise";
             bindings = <
-&trans     &kp PAGE_UP  &kp BSPC        &kp UP_ARROW  &kp PAGE_DOWN  &trans             &trans     &kp KP_NUMBER_1  &kp KP_N8        &kp KP_NUMBER_9  &kp RPAR   &kp BSPC
+&trans     &kp PAGE_UP  &kp BSPC        &kp UP_ARROW  &kp PAGE_DOWN  &trans             &trans     &kp KP_NUMBER_7  &kp KP_N8        &kp KP_NUMBER_9  &kp RPAR   &kp BSPC
 &kp LCTRL  &kp HOME     &kp LEFT_ARROW  &kp DOWN      &kp RIGHT      &kp END            &trans     &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp COMMA  &kp PERIOD
 &kp LSHFT  &trans       &kp TAB         &trans        &kp ENTER      &trans             &kp COLON  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp SEMI   &trans
                                         &kp LGUI      &trans         &kp KP_NUMBER_0    &kp RET    &trans           &kp RALT
